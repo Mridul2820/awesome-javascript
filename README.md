@@ -1,5 +1,6 @@
 <div align="center">
     <h1>Awesome Javascript</h1>
+   <h4>A Collection of Awesome JavaScript Projects made by community</h4>
 </div>
 <p align="center">
     <img src="/assets/javascript-banner.png" align="center" />
