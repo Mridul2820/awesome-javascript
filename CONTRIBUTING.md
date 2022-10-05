@@ -19,7 +19,27 @@ cd awesome-javascript
 git checkout -b my-new-branch
 ```
 
-- Create a new folder in the `/projects` and add your project in it.
+- Create a new folder in the `/projects/` and add your project in it.
+
+```
+/projects/your-project-name
+```
+
+### Project Folder Name Guidelines
+
+✅ your-project-name
+<br>
+❌ your project name
+<br>
+❌ Your project name
+<br>
+❌ Your Project Name
+<br>
+❌ Your-Project-Name
+
+Note: Please add a different name for your project folder. If you are adding a project with the same name as an existing project, please add a number at the end of the folder name. For example, if you are adding a project named `Calculator`, and there is already a project named `Calculator`, then please name your project folder as `Calculator-2`.
+
+- Add your changes
 
 ```
 git add .
