@@ -8,6 +8,13 @@
 
 <br />
 
+## Rules
+- Create a Issue first on the Project Name.
+- If the issue got accepted it will get `hacktoberfest` and `hacktoberfest-accepted` label. And you can then contribute on the project.
+- Do not spam with multiple projects.
+- Follow the [Contributing Guide](/contributing.md).
+- Follow the [Folder Name Guidelines](#project-folder-name-guidelines) before contribute.
+
 ## Contributing Guide
 
 - Fork this repo (button on top)
