@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+#main {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.container {
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 500px;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: lightseagreen;
+}
+
+#title {
+    font-size: 3rem;
+    margin-bottom: 0;
+
+}
+
+#counter {
+    font-size: 2rem;
+}
+
+button {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    background-color: lightslategray;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    margin: 1rem;
+    cursor: pointer;
+}
+
