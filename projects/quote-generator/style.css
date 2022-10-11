@@ -1,0 +1,57 @@
+body {
+    background: url(bg.jpg);
+}
+
+.container {
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: #F4EEFF;
+    width: 50vw;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #000;
+
+    margin-top: 10vh;
+    margin-bottom: 10vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#quote {
+    word-wrap: break-word;
+    line-height: 1.6;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.quote-text {
+    padding: 10px 50px;
+}
+
+.quote-author {
+    padding: 10px 50px;
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(236, 88, 51);
+    font-style: italic;
+}
+
+.next-quote {
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+#next {
+    background-color: #282c34;
+    color: #fff;
+    font-size: 1.2rem;
+}
+.title {
+    font-size: 2rem;
+    text-align: center;
+}
